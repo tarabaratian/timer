@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+button.btn {
+  width: 100px;
+  height: 50px;
+  background-color: #cc3355;
+  border: 1px solid rgb(253, 253, 253);
+  margin-top: 30px;
+  margin-left: 30px;
+  border-radius: 20px;
+  font-size: 20px;
+  color: white;
+  font-family: sans-serif;
+}
+div.clock {
+  margin: 50px auto;
+  width: 90%;
+  height: 200px;
+  font-size: 180px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #333333;
+}
